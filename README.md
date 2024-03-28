@@ -1,5 +1,5 @@
-# Third-Party-Exemption-Policy
-GRC Third-Party Exemption Policy 
+# Third-Party-Exception-Policy
+GRC Third-Party Exception Policy 
 
 <h2>Summary Explanation</h2>
 <p>This exception policy has been developed to provide guidelines for managing exceptions to standard procedures and controls when working with third-party vendors within the context of a title insurance company. The policy aims to balance maintaining security and compliance while allowing flexibility to accommodate unique circumstances that may arise when engaging with external parties. Several key considerations informed the development of this policy:</p>
